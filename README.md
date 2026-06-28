@@ -30,19 +30,13 @@ movies_metadata.xlsb  # Dataset
 git clone https://github.com/Raghunandan-22/content-based-movie-recommender.git
 ```
 
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open Jupyter Notebook:
+2. Open Jupyter Notebook:
 
 ```bash
 jupyter notebook
 ```
 
-4. Run `movies.ipynb`.
+3. Run `movies.ipynb`.
 
 ## 🎯 Example
 
