@@ -32,7 +32,7 @@ requirements.txt      # Python libraries
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/movie-recommender.git
+git clone https://github.com/Raghunandan-22/content-based-movie-recommender.git
 ```
 
 2. Install dependencies:
