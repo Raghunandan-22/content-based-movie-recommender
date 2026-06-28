@@ -19,7 +19,7 @@ This project recommends similar movies based on movie descriptions, genres, and 
 
 ```text
 movies.ipynb          # Main notebook
-movies_metadata.csv   # Dataset
+movies_metadata.xlsb  # Dataset
 df.pkl                # Processed data
 tfidf.pkl             # TF-IDF model
 tfidf_matrix.pkl      # Feature matrix
